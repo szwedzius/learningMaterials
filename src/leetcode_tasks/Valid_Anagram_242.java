@@ -1,3 +1,5 @@
+package leetcode_tasks;
+
 import java.util.Arrays;
 
 public class Valid_Anagram_242 {
